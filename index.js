@@ -1,3 +1,3 @@
 
-console.log("idfddex");
-console.log("iddexfd12");
+console.log("index");
+console.log("edx");
